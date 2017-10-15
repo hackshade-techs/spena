@@ -8,7 +8,6 @@
 @endsection
 
 @section('keywords') 
-
 @endsection
 
 @section('content')
